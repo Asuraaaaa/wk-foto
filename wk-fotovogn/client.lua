@@ -1,14 +1,10 @@
 --
--- Created by IntelliJ IDEA.
--- User: Sling
--- Date: 26-03-2019
--- Time: 20:27
--- Made for CiviliansNetwork
---
+-- Created by wick
+-- virker på All vrp
+-- 
 
---vRPex = Proxy.getInterface("vrp_extended")
 
-local vhash = GetHashKey("burrito3")
+local vhash = GetHashKey("burrito3") -- skifte bil her
 local fotovogne = {}
 local defaults = {}
 local zones = {
